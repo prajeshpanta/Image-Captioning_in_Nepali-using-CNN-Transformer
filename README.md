@@ -44,17 +44,35 @@ The model predicts one word at a time until an end token is generated.
 
 .
 ├── dataset/               # Images and caption data
+
+
 ├── Saved_model/           # Saved trained model weights
+
+
 ├── Transformer.py         # Transformer model implementation
+
+
 ├── training.py            # Model training script
+
+
 ├── inference.py           # Caption generation script
+
+
 ├── preprocessing.py       # Data preprocessing utilities
+
+
 ├── BLEUscore.py           # BLEU evaluation implementation
+
+
 ├── Loads_model.py         # Model loading utilities
+
+
 ├── loadingweight.py       # Load pretrained weights
+
+
 ├── UI.py                  # Graphical interface for caption generation
-├── LICENSE
-└── README.md
+
+
 
 
 ------------------------------------------------------------
