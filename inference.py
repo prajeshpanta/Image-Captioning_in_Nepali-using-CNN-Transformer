@@ -9,7 +9,7 @@ from tensorflow.keras import layers
 from tensorflow.keras.applications import efficientnet
 from tensorflow.keras.layers import TextVectorization
 from Transformer import *
-from loadingwight import model as caption_model
+from loadingweight import model as caption_model
 vocab = vectorization.get_vocabulary()
 index_lookup = dict(zip(range(len(vocab)), vocab))
 max_decoded_sentence_length = SEQ_LENGTH - 1
