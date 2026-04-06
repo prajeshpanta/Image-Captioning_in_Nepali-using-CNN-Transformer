@@ -191,3 +191,6 @@ Author
 ------------------------------------------------------------
 
 Prajesh Bilash Panta
+Sandip Sharma
+Sujan Deula
+Sagar Khanal
