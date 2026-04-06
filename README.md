@@ -190,7 +190,7 @@ To load weights separately:
 Author
 ------------------------------------------------------------
 
-Prajesh Bilash Panta
-Sandip Sharma
-Sujan Deula
+Prajesh Bilash Panta,
+Sandip Sharma,
+Sujan Deula,
 Sagar Khanal
